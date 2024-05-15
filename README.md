@@ -8,7 +8,7 @@
 **AIM:**
      To simulate and synthesis finite state machine using Xilinx ISE.
 
-**APPARATUS REQUIRED: **
+**APPARATUS REQUIRED:**
 
 Xilinx 14.7 
 Spartan6 FPGA
